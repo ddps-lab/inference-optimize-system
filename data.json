@@ -1,0 +1,992 @@
+[
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.06558577523999999,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.06558577523999999,
+        "Oracle": 0.06558577523999999,
+        "Case": "mobilenet_v2_1"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.06504132023999999,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.06504132023999999,
+        "Oracle": 0.064895262035,
+        "Case": "mobilenet_v2_2"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.07129311551999999,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.07108004938,
+        "Oracle": 0.07071781543499998,
+        "Case": "mobilenet_v2_3"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.0633818214,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.0633818214,
+        "Oracle": 0.06329088317499999,
+        "Case": "mobilenet_v2_4"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.06037352603999999,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.06037352603999999,
+        "Oracle": 0.06036884602499999,
+        "Case": "mobilenet_v2_5"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.06836031792,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.06836031792,
+        "Oracle": 0.068279594315,
+        "Case": "mobilenet_v2_6"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.06513278868,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.06513278868,
+        "Oracle": 0.06499033444499999,
+        "Case": "mobilenet_v2_7"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.06603440615999999,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.06603440615999999,
+        "Oracle": 0.06587716021,
+        "Case": "mobilenet_v2_8"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.07229055708,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.07229055708,
+        "Oracle": 0.07180817731499999,
+        "Case": "mobilenet_v2_9"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.07026808824,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.0701592487,
+        "Oracle": 0.069615941435,
+        "Case": "mobilenet_v2_10"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.066278322,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.066278322,
+        "Oracle": 0.06605724479,
+        "Case": "mobilenet_v2_11"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.06885686088,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.06884599750999999,
+        "Oracle": 0.06846852894,
+        "Case": "mobilenet_v2_12"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.06640463556,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.06640463556,
+        "Oracle": 0.06632246007499999,
+        "Case": "mobilenet_v2_13"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.0664743258,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.066465990355,
+        "Oracle": 0.066139183205,
+        "Case": "mobilenet_v2_14"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.06897591503999999,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.06897591503999999,
+        "Oracle": 0.06876720454,
+        "Case": "mobilenet_v2_15"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.06822093743999999,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.06822093743999999,
+        "Oracle": 0.06803502972499999,
+        "Case": "mobilenet_v2_16"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.06803654867999999,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.06803654867999999,
+        "Oracle": 0.06781987856999999,
+        "Case": "mobilenet_v2_17"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.06846775704,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.06846775704,
+        "Oracle": 0.06831631861,
+        "Case": "mobilenet_v2_18"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.06334842816,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.06334842816,
+        "Oracle": 0.06321220874,
+        "Case": "mobilenet_v2_19"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.07143539975999999,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.071424160555,
+        "Oracle": 0.07103825361999999,
+        "Case": "mobilenet_v2_20"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.06685907399999999,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.066834767875,
+        "Oracle": 0.06658723244999999,
+        "Case": "mobilenet_v2_21"
+    },
+    {
+        "Model": "mobilenet_v2",
+        "Only Lambda": 0.07926248484,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.078428430355,
+        "Oracle": 0.077110534995,
+        "Case": "mobilenet_v2_22"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.41442387794999996,
+        "Max Instances": 0.301666665,
+        "Scaling Instances": 0.2031222211,
+        "Optimize System": 0.20527240137499997,
+        "Oracle": 0.206919992195,
+        "Case": "inception_v3_1"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.41098357169999994,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.226149443195,
+        "Optimize System": 0.229937524815,
+        "Oracle": 0.2100348986,
+        "Case": "inception_v3_2"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.45048746159999997,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.232584998715,
+        "Optimize System": 0.233062087605,
+        "Oracle": 0.225384265655,
+        "Case": "inception_v3_3"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.40049751824999996,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.21176999882999997,
+        "Optimize System": 0.21292973099999998,
+        "Oracle": 0.20513104949,
+        "Case": "inception_v3_4"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.38148867945,
+        "Max Instances": 0.301666665,
+        "Scaling Instances": 0.20523388775499998,
+        "Optimize System": 0.208263894465,
+        "Oracle": 0.197690298515,
+        "Case": "inception_v3_5"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.43195567859999995,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.22554610986499998,
+        "Optimize System": 0.23104598481,
+        "Oracle": 0.21644939683499997,
+        "Case": "inception_v3_6"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.41156154315,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.21639555436,
+        "Optimize System": 0.22147787822999998,
+        "Oracle": 0.20945008534499998,
+        "Case": "inception_v3_7"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.41725869029999996,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.219311665455,
+        "Optimize System": 0.22003429582499998,
+        "Oracle": 0.21137250747999997,
+        "Case": "inception_v3_8"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.45679010265,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.24253999865999998,
+        "Optimize System": 0.24636729754499997,
+        "Oracle": 0.22882277143,
+        "Case": "inception_v3_9"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.44401051169999994,
+        "Max Instances": 0.502777775,
+        "Scaling Instances": 0.243042776435,
+        "Optimize System": 0.250964987075,
+        "Oracle": 0.22390328300499998,
+        "Case": "inception_v3_10"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.4187999475,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.23027222095,
+        "Optimize System": 0.24062396918499998,
+        "Oracle": 0.21356764999499997,
+        "Case": "inception_v3_11"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.4350932379,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.23540055425499998,
+        "Optimize System": 0.24080184589499998,
+        "Oracle": 0.21998197645499998,
+        "Case": "inception_v3_12"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.41959809854999996,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.22061888766999999,
+        "Optimize System": 0.22614752057999998,
+        "Oracle": 0.21119243710999996,
+        "Case": "inception_v3_13"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.42003845775,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.22403777653999998,
+        "Optimize System": 0.22996359033999997,
+        "Oracle": 0.21417115509999998,
+        "Case": "inception_v3_14"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.43584551819999995,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.23288666538,
+        "Optimize System": 0.24299467261,
+        "Oracle": 0.21860081262499997,
+        "Case": "inception_v3_15"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.43107496019999997,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.225344998755,
+        "Optimize System": 0.22801596155499998,
+        "Oracle": 0.21705794327,
+        "Case": "inception_v3_16"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.42990984314999997,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.22242888766,
+        "Optimize System": 0.222875024925,
+        "Oracle": 0.215724638985,
+        "Case": "inception_v3_17"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.4326345657,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.23208222093999997,
+        "Optimize System": 0.23967524246499997,
+        "Oracle": 0.217274350145,
+        "Case": "inception_v3_18"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.4002865128,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.21679777658,
+        "Optimize System": 0.21849339872,
+        "Oracle": 0.20710798465499997,
+        "Case": "inception_v3_19"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.4513865283,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.23962388756499997,
+        "Optimize System": 0.245101985035,
+        "Oracle": 0.22537653188499998,
+        "Case": "inception_v3_20"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.42246960749999996,
+        "Max Instances": 0.502777775,
+        "Scaling Instances": 0.22262999876999998,
+        "Optimize System": 0.22702859907499998,
+        "Oracle": 0.21320445672,
+        "Case": "inception_v3_21"
+    },
+    {
+        "Model": "inception_v3",
+        "Only Lambda": 0.50084437095,
+        "Max Instances": 0.40222221999999996,
+        "Scaling Instances": 0.26848333185,
+        "Optimize System": 0.27853665427499996,
+        "Oracle": 0.249067001765,
+        "Case": "inception_v3_22"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.29032235370000004,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10221716295,
+        "Oracle": 0.099722046175,
+        "Case": "resnet50_1"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.2879122662,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10194308109499998,
+        "Oracle": 0.09979689413,
+        "Case": "resnet50_2"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.3155864976,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10189581795,
+        "Oracle": 0.10012842044999999,
+        "Case": "resnet50_3"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.2805663195,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10178656065,
+        "Oracle": 0.099794619285,
+        "Case": "resnet50_4"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.2672497827,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10173099339499998,
+        "Oracle": 0.09990802864,
+        "Case": "resnet50_5"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.30260415960000003,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10184440275,
+        "Oracle": 0.09998327423,
+        "Case": "resnet50_6"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.28831716090000004,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10296080614,
+        "Oracle": 0.099852461385,
+        "Case": "resnet50_7"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.2923082658,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10198579455,
+        "Oracle": 0.099743204085,
+        "Case": "resnet50_8"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.3200017779,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10231356644999999,
+        "Oracle": 0.10010271285,
+        "Case": "resnet50_9"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.31104910620000004,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10207577115,
+        "Oracle": 0.10009628595,
+        "Case": "resnet50_10"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.293387985,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10206934425,
+        "Oracle": 0.10002371284,
+        "Case": "resnet50_11"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.3048021594,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10196008695,
+        "Oracle": 0.09990615142999999,
+        "Case": "resnet50_12"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.2939471253,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10230071265,
+        "Oracle": 0.10009401110499999,
+        "Case": "resnet50_13"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.29425561650000004,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10168373024999999,
+        "Oracle": 0.10005584734,
+        "Case": "resnet50_14"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.30532916520000003,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10174799925,
+        "Oracle": 0.10007473040499999,
+        "Case": "resnet50_15"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.3019871772,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10202663079499999,
+        "Oracle": 0.09981844967499999,
+        "Case": "resnet50_16"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.3011709609,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10203720975,
+        "Oracle": 0.10001273625,
+        "Case": "resnet50_17"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.3030797502,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10227500504999999,
+        "Oracle": 0.09967933272,
+        "Case": "resnet50_18"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.2804185008,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10177370684999999,
+        "Oracle": 0.10001688830499998,
+        "Case": "resnet50_19"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.3162163338,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10237368339499998,
+        "Oracle": 0.09997417485,
+        "Case": "resnet50_20"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.295958745,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10218502844999999,
+        "Oracle": 0.10009856079499999,
+        "Case": "resnet50_21"
+    },
+    {
+        "Model": "resnet50",
+        "Only Lambda": 0.3508637517,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10356681194999999,
+        "Oracle": 0.10010874211499998,
+        "Case": "resnet50_22"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7009855794000001,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10598988645,
+        "Oracle": 0.10018498866999999,
+        "Case": "vgg16_1"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.6951664044000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10547035029499999,
+        "Oracle": 0.10106826269,
+        "Case": "vgg16_2"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7619860512000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10176222166,
+        "Optimize System": 0.10642066311,
+        "Oracle": 0.10333013975,
+        "Case": "vgg16_3"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.6774295590000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10495019385,
+        "Oracle": 0.10074362947,
+        "Case": "vgg16_4"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.6452766774,
+        "Max Instances": 0.10055555499999999,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10496571165,
+        "Oracle": 0.100409066335,
+        "Case": "vgg16_5"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7306400952000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10508985405,
+        "Oracle": 0.10080446008999999,
+        "Case": "vgg16_6"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.6961440258000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10798423389499999,
+        "Oracle": 0.10108378049,
+        "Case": "vgg16_7"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7057805796000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10543124564999999,
+        "Oracle": 0.10117626699999999,
+        "Case": "vgg16_8"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7726467798000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10622265345,
+        "Oracle": 0.10305143963999999,
+        "Case": "vgg16_9"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7510304844000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10075666610999999,
+        "Optimize System": 0.10584960596,
+        "Oracle": 0.10379381288,
+        "Case": "vgg16_10"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7083875700000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10563297705,
+        "Oracle": 0.10153255610999999,
+        "Case": "vgg16_11"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7359471828000002,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10536917444999999,
+        "Oracle": 0.10261818181999999,
+        "Case": "vgg16_12"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7097376186000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10619161785,
+        "Oracle": 0.100874600335,
+        "Case": "vgg16_13"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7104824730000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10470190905,
+        "Oracle": 0.102331412665,
+        "Case": "vgg16_14"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7372196424000002,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10485708704999999,
+        "Oracle": 0.101493451465,
+        "Case": "vgg16_15"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7291503864000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10567953045,
+        "Oracle": 0.10130040939999999,
+        "Case": "vgg16_16"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7271796258000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10555538804999999,
+        "Oracle": 0.10158717855499999,
+        "Case": "vgg16_17"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7317884124000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10612954664999999,
+        "Oracle": 0.10100681178,
+        "Case": "vgg16_18"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.6770726496000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10491915824999999,
+        "Oracle": 0.101091229245,
+        "Case": "vgg16_19"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7635067956000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10651004289499999,
+        "Oracle": 0.10278825733,
+        "Case": "vgg16_20"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.7145946900000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10591229745,
+        "Oracle": 0.10174918502,
+        "Case": "vgg16_21"
+    },
+    {
+        "Model": "vgg16",
+        "Only Lambda": 0.8471632554000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.109102777175,
+        "Optimize System": 0.12204709826,
+        "Oracle": 0.112162885225,
+        "Case": "vgg16_22"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.8333605386,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10720600244999999,
+        "Oracle": 0.100809153425,
+        "Case": "vgg19_1"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.8264424636000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10266722165499999,
+        "Optimize System": 0.108363819975,
+        "Oracle": 0.10452399439,
+        "Case": "vgg19_2"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.9058804128,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.11051055494499999,
+        "Optimize System": 0.11608451132999999,
+        "Oracle": 0.109733396855,
+        "Case": "vgg19_3"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.805356171,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10286833276499999,
+        "Optimize System": 0.10817388070499999,
+        "Oracle": 0.10276855810499999,
+        "Case": "vgg19_4"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.7671315006,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10055555499999999,
+        "Optimize System": 0.10598842124999999,
+        "Oracle": 0.10125476751,
+        "Case": "vgg19_5"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.8686150488000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.100656110555,
+        "Optimize System": 0.10623656240499998,
+        "Oracle": 0.10405265574499999,
+        "Case": "vgg19_6"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.8276047002,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.103873888315,
+        "Optimize System": 0.11258767688,
+        "Oracle": 0.10377125637,
+        "Case": "vgg19_7"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.8390610324000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.103069443875,
+        "Optimize System": 0.10879280495,
+        "Oracle": 0.10452867076499998,
+        "Case": "vgg19_8"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.9185543262,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10447722164499999,
+        "Optimize System": 0.111221729185,
+        "Oracle": 0.110799754275,
+        "Case": "vgg19_9"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.8928559836000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10870055495499999,
+        "Optimize System": 0.115688527275,
+        "Oracle": 0.11016056274,
+        "Case": "vgg19_10"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.84216033,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.101058332775,
+        "Optimize System": 0.107284471625,
+        "Oracle": 0.105667001895,
+        "Case": "vgg19_11"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.8749243332000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10769499940499999,
+        "Optimize System": 0.11534606873,
+        "Oracle": 0.10958399216499999,
+        "Case": "vgg19_12"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.8437653234,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10236555499,
+        "Optimize System": 0.109155273485,
+        "Oracle": 0.10350934339,
+        "Case": "vgg19_13"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.844650837,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10598555496999999,
+        "Optimize System": 0.111004246265,
+        "Oracle": 0.107654207525,
+        "Case": "vgg19_14"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.8764370856,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10135999943999999,
+        "Optimize System": 0.10666372829,
+        "Oracle": 0.105757423805,
+        "Case": "vgg19_15"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.8668440216000001,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10196333277,
+        "Optimize System": 0.10824481621999998,
+        "Oracle": 0.10615678874,
+        "Case": "vgg19_16"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.8645011002,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10316999942999999,
+        "Optimize System": 0.10908615706,
+        "Oracle": 0.10621862880499999,
+        "Case": "vgg19_17"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.8699802156,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.101058332775,
+        "Optimize System": 0.107874814025,
+        "Oracle": 0.10474355369999999,
+        "Case": "vgg19_18"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.8049318624,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.101058332775,
+        "Optimize System": 0.106435854425,
+        "Oracle": 0.10420024134499999,
+        "Case": "vgg19_19"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.9076883364,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.10769499940499999,
+        "Optimize System": 0.11930489806999998,
+        "Oracle": 0.10884502597,
+        "Case": "vgg19_20"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 0.84953961,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.104276110535,
+        "Optimize System": 0.11058799491999999,
+        "Oracle": 0.104726143695,
+        "Case": "vgg19_21"
+    },
+    {
+        "Model": "vgg19",
+        "Only Lambda": 1.0071425826,
+        "Max Instances": 0.20111110999999998,
+        "Scaling Instances": 0.13072222149999999,
+        "Optimize System": 0.144160311055,
+        "Oracle": 0.12586256293499998,
+        "Case": "vgg19_22"
+    }
+]
